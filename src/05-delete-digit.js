@@ -1,4 +1,3 @@
-
 function deleteDigit(n) {
   const nArr = [...`${n}`].map(Number);
   const yArr = [];
